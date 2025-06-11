@@ -3,7 +3,7 @@
 ## Nama Anggota Kelompok 01
 |    NRP     |      Nama      |
 | :--------: | :------------: |
-| 5025241065 | Aji Zaenul Musthofa (saya) |
+| 5025241065 | Aji Zaenul Musthofa (Me) |
 | 5025241088 | Nick Alan Marpaung |
 | 5025241090 | Willy Dava Nugraha |
 | 5025241091 | Farras Abdurrazzaq |
